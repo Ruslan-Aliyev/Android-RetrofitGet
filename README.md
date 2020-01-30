@@ -2,9 +2,9 @@
 
 ## Server:
 
-http://ruslancode.net23.net/retrofit/1.9/get.php?test_name=test_one
+http://ruslancode.net23.net/retrofit/1.9/get.php?test_name=test_one <sup>taken down</sup>
 
-http://ruslancode.net23.net/retrofit/1.9/get.php?test_name=test_two
+http://ruslancode.net23.net/retrofit/1.9/get.php?test_name=test_two <sup>taken down</sup>
 
 ```php
 <?php
@@ -16,4 +16,4 @@ echo json_encode($res[ $_GET["test_name"] ]);
 ?>
 ```
 
-![](https://raw.githubusercontent.com/Ruslan-Aliyev/RetrofitGet/master/Illustrations/1.png)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Android-RetrofitGet/master/Illustrations/1.png)
